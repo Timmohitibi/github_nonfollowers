@@ -97,4 +97,4 @@ Contributions are welcome. Feel free to open issues or pull requests to add feat
 
 ## License
 
-This repository does not include a license file. If you want to change that, add a LICENSE file to specify terms (GPL, MIT, etc.).
+This repository does not include a license file. 
